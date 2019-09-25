@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body
+{
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar
+{
+	background-color: #0e5605 !important;
+	
+}
+.navbar .nav-item a{
+	color: white;
+	
+}
+
+.navbar .nav-item a:hover{
+	
+	color: #96b5a0;
+	
+}
+.navbar .navbar-nav .nav-item {
+	margin: 0 18px;
+	
+}
+.navbar .navbar-brand img
+{
+	width: 120px; 
+	height: 50px;
+	background-color: white;
+	
+}
+
+.navbar .navbar-text
+{
+font-size: 25px;	
+	letter-spacing: 4;
+	
+}
+
+.navbar .navbar-nav .nav-item .dropdown-menu a {
+	background-color: white;
+	color: #0e5605;
+	padding: 7px;
+	
+}
+.navbar .navbar-nav .nav-item .dropdown-menu :hover {
+	background-color: #239e37;
+	color: white;
+	
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+	
